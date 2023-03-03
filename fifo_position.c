@@ -34,7 +34,7 @@ main(int argc, char *argv[])
 
 	printf(1, "\nParent created with pid %d and FIFO Position is %d.",  parentid, fifo_position(parentid));
 	printf(1, "\nChild 1 created with pid %d and FIFO Position is %d.", childid1, fifo_position(childid1));
-	printf(1, "\nChild 2 created with pid %d and FIFO Position is %d.", childid2, fifo_position(childid2));
+	printf(1, "\nChild 2 created with pid %d and FIFO Position is %d.\n", childid2, fifo_position(childid2));
 	wait();
         wait();	
 	exit();		
