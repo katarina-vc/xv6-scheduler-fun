@@ -1,6 +1,6 @@
-# COP6611.001S23 - Operating Systems - Project 2
+# xv6 breaking different types of process schedulers
 
-## Group Members (Same Team from Project 1)
+## Devs
 * Katarina Capalbo 
 * John Maurer
 * Azim Ibragimov
